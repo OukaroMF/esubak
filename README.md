@@ -2,7 +2,6 @@
 人人都开站 恶俗全世界
 - esuwiki：恶俗维基的XML备份
 - zhinawiki：支纳维基的XML备份
-- zhinawiki2：二代支纳维基的Markdown格式网页存档
 - zhinared：红岸基金会的Mardown格式网页存档
 ## 关于XML存档、文件的导入方法
 xml存档见本仓库目录，图片等文件见release。 
