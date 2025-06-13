@@ -3,6 +3,9 @@
 - esuwiki：恶俗维基的XML备份
 - zhinawiki：支纳维基的XML备份
 - zhinawiki2：二代支纳维基的Mardown格式网页存档
+## 靖国神社
+- [灵堂V3](https://cqlt.esubike.eu.org)
+- [灵堂V4](https://ltv4.esubike.eu.org)
 ## 关于XML存档、文件的导入方法
 xml存档见本仓库目录，图片等文件见release。 
 
